@@ -12,4 +12,4 @@ Getting a `POST` request to control an LED `off` & `on` state present on My [Ras
 ## Bibliography 
 
 - [Official GPIO Documentation](https://www.raspberrypi.org/documentation/usage/gpio/)
-- ![GPIO Diagram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.raspberrypi.org%2Fdocumentation%2Fusage%2Fgpio%2F&psig=AOvVaw2fLgh3A-VEXnGFCQ5A43Nc&ust=1626461241454000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjDtrbe5fECFQAAAAAdAAAAABAD)
+- ![GPIO Diagram](https://www.raspberrypi.org/documentation/usage/gpio/images/GPIO-Pinout-Diagram-2.png)
