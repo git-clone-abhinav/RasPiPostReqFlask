@@ -20,6 +20,8 @@ Go to `<serveripaddress>/off` to turn `OFF` the LED
 
 ## Connecion to GPIO
 
+<img src="https://pi4j.com/1.2/images/j8header-3b-plus-large.png" alt="GPIO Diagram" width="350"/>
+
 [Schematic Diagram](https://raw.githubusercontent.com/itsCharmander/RasPiPostReqFlask/master/static/project.png)
 
 I have used a Resistor of `330KΩ` for Safety Reasons, In case the LED burns due to high current from the board it could result in some serious permanent damage to the board.
