@@ -20,7 +20,11 @@ Go to `<serveripaddress>/off` to turn `OFF` the LED
 
 ## Connecion to GPIO
 
+[Schematic Diagram](https://raw.githubusercontent.com/itsCharmander/RasPiPostReqFlask/master/static/project.png)
 
+I have used a Resistor of `330KΩ` for Safety Reasons, In case the LED burns due to high current from the board it could result in some serious permanent damage to the board.
+
+You can use it without resistor as well but make sure you are using a heavy LED for the same.
 
 ## Bibliography 
 
