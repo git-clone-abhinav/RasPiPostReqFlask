@@ -12,7 +12,9 @@ Getting a `POST` request to control an LED `off` & `on` state present on My [Ras
 ## Usage
 
 Go to `<serveripaddress>` to view the documentation
+
 Go to `<serveripaddress>/on` to turn `ON` the LED
+
 Go to `<serveripaddress>/off` to turn `OFF` the LED
 
 
