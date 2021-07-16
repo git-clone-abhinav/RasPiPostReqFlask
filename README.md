@@ -20,7 +20,7 @@ Go to `<serveripaddress>/off` to turn `OFF` the LED
 
 ## Connecion to GPIO
 
-<img src="https://pi4j.com/1.2/images/j8header-3b-plus-large.png" alt="GPIO Diagram" width="350"/>
+<img src="https://raw.githubusercontent.com/itsCharmander/RasPiPostReqFlask/master/static/project.png" alt="Schematic Diagram" width="350"/>
 
 [Schematic Diagram](https://raw.githubusercontent.com/itsCharmander/RasPiPostReqFlask/master/static/project.png)
 
