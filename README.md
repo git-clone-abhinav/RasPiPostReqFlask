@@ -17,6 +17,10 @@ Go to `<serveripaddress>/on` to turn `ON` the LED
 
 Go to `<serveripaddress>/off` to turn `OFF` the LED
 
+[Turn ON](tally.ccnet.in/on)
+
+[Turn OFF](tally.ccnet.in/off)
+
 
 ## Connection to GPIO
 
