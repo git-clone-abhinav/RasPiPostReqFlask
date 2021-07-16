@@ -18,7 +18,7 @@ Go to `<serveripaddress>/on` to turn `ON` the LED
 Go to `<serveripaddress>/off` to turn `OFF` the LED
 
 
-## Connecion to GPIO
+## Connection to GPIO
 
 <img src="https://raw.githubusercontent.com/itsCharmander/RasPiPostReqFlask/master/static/project.png" alt="Schematic Diagram" width="350"/>
 
