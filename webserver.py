@@ -1,5 +1,7 @@
 from flask import Flask
-from flask import request
+import requests
+from flask.ctx import has_app_context
+from flask.signals import request_finished
 app = Flask(__name__)
 # import led
 import RPi.GPIO as GPIO
@@ -33,12 +35,14 @@ def off():
 
 @app.route('/api/rgb', methods=['GET'])
 def api_rgb():
-    if 'rgb' in request.args:
-        id = int(request.args['rgb'])
+    if 'rgb' in requests.args:
+        id = int(requests.args['rgb'])
         print(id)
     else:
         return "Error: No id field provided. Please specify an rgb."
 
     
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port = 80, debug = True)
+    app.run(host="0.0.0.0", port = 401, debug = True)
+
+
